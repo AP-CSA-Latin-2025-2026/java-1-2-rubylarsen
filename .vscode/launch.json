@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW52a",
+            "request": "launch",
+            "mainClass": "HW52a",
+            "projectName": "java-1-2-rubylarsen_56826e79"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",

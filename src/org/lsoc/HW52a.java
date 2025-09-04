@@ -1,0 +1,13 @@
+public class HW52a {
+  public static void main(String[] args){
+    int length = 143;
+    int width = 82;
+    int perim = length * 2 + width * 2;
+    int area = length * width;
+    System.out.println(area);
+    System.out.println(perim);
+  
+  }
+
+
+}
